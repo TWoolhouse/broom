@@ -1,0 +1,7 @@
+[project]
+name = "broom"
+version = "0.1.0"
+description = "Clean up auto-generated files and directories."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
